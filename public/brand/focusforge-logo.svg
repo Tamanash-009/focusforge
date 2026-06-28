@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#070A12"/>
+  <rect x="96" y="126" width="378" height="378" rx="96" fill="#101828"/>
+  <circle cx="285" cy="315" r="124" stroke="#38D6C9" stroke-width="28"/>
+  <path d="M237 236H349V282H284V316H337V358H284V430H237V236Z" fill="#38D6C9"/>
+  <path d="M349 236L378 259L349 282V236Z" fill="#8B5CF6"/>
+  <text x="540" y="295" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="82" font-weight="760">FocusForge</text>
+  <text x="546" y="363" fill="#A8B3C7" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="560">Study operating system</text>
+  <rect x="546" y="402" width="290" height="8" rx="4" fill="#38D6C9"/>
+  <rect x="850" y="402" width="138" height="8" rx="4" fill="#4F8CFF"/>
+  <rect x="1002" y="402" width="72" height="8" rx="4" fill="#8B5CF6"/>
+</svg>
