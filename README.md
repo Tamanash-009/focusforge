@@ -2,6 +2,8 @@
 
 FocusForge is a production-oriented PWA study management app for students. It combines a responsive dashboard, first-run onboarding, study planner, focus sessions, notes, offline support, Clerk-ready authentication, and Supabase-ready persistence.
 
+[Live Demo](https://focusforge-umber-omega.vercel.app) · [Repository](https://github.com/Tamanash-009/focusforge)
+
 ![FocusForge dashboard preview](public/previews/dashboard.png)
 
 ## Why FocusForge
