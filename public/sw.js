@@ -1,10 +1,11 @@
-const CACHE_NAME = "focusforge-shell-v4";
+const CACHE_NAME = "focusforge-shell-v5";
 const APP_SHELL = [
   "/",
   "/offline",
   "/?view=focus",
   "/?view=planner",
   "/?view=notes",
+  "/favicon.ico",
   "/manifest.webmanifest",
   "/brand/focusforge-logo.svg",
   "/brand/focusforge-mark.svg",
